@@ -1,0 +1,11 @@
+{
+  "name": "blok",
+  "version": "1.0.0",
+  "description": "a blokus implementation",
+  "main": "index.js",
+  "author": "James Jarvis",
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^2.1.0"
+  }
+}
